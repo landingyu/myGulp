@@ -1,0 +1,21 @@
+{
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"dpi_scale": 1,
+	"save_on_focus_lost": true,
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_scrollbar_medium": true,
+	"itg_scrollbar_small": true,
+	"itg_sidebar_tree_large": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_sidebar_tree_small": true,
+	"itg_sidebar_tree_xlarge": true,
+	"itg_sidebar_tree_xsmall": true,
+	"itg_small_tabs": true,
+	"overlay_scroll_bars": "disabled",
+	"theme": "itg.flat.dark.sublime-theme"
+}
